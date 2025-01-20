@@ -16,7 +16,8 @@ The notebooks are organized into the following categories:
 
 **[101] Data Exploration and Preprocessing:** All notebooks starts with **101** code is the machine leaning and data science.
 
-- **`101-01-linear-algebra.ipynb`**: Covers the fundamentals of linear algebra, including vectors, matrices, and operations.
+- **`101-01-linear-algebra.ipynb`**: comming soon
+<!-- Covers the fundamentals of linear algebra, including vectors, matrices, and operations. -->
 - **`101-02-descriptive-statistics.ipynb`**: Covers descriptive statistics, data visualization, and understanding key metrics for data analysis.
 - **`101-03-probability-distributions.ipynb`**: Introduces basic probability theory, random variables, distributions.
 - **`101-04-T-testing-and-error-types`**:  Explains hypothesis testing, confidance interval, t-tests, and how to perform them in Python.
@@ -27,7 +28,7 @@ All notebooks starts with **202** code is the machine leaning and data science.
 
 - **`202-02-feature-selection-part2.ipynb`**: Explores feature engineering techniques to improve model performance, covers different feature selection methods, and demonstrates their implementation.
 
-- **`202-03-feature-extraction-(pca-t.sne-umap).ipynb`**: a comprehensive guide to dimensionality reduction techniques, specifically focusing on PCA, t-SNE, and UMAP. It includes theoretical explanations, step-by-step implementations from scratch, and practical applications using Scikit-learn. 
+- **`202-03-feature-extraction-(pca-t.sne-umap).ipynb` [underdevelopment]**: a comprehensive guide to dimensionality reduction techniques, specifically focusing on PCA, t-SNE, and UMAP. It includes theoretical explanations, step-by-step implementations from scratch, and practical applications using Scikit-learn. 
 
 **[303] Machine Learning Algorithms:**
 
@@ -40,7 +41,7 @@ All notebooks starts with **202** code is the machine leaning and data science.
 
 ## Getting Started
 
-1. **Clone the repository:**
+**Clone the repository:**
 
    ```bash
    git clone https://github.com/heba14101998/Hands-on-Data-with-Python.git
